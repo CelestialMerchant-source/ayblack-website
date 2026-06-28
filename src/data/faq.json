@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How do I place an order?",
+    "answer": "You can book directly through our WhatsApp button or fill out the booking form on this site with your details, preferred service, and date. We'll confirm within 24 hours."
+  },
+  {
+    "question": "Do you take measurements in person or remotely?",
+    "answer": "Both. If you're in Ibadan, we book an in-person fitting. If you're outside Lagos or abroad, we send you a simple measurement guide and you send your numbers via WhatsApp."
+  },
+  {
+    "question": "How long does an order take?",
+    "answer": "Standard orders take 7-14 days depending on complexity. Rush orders for urgent events can be arranged for an additional fee — ask us on WhatsApp."
+  },
+  {
+    "question": "Can I bring my own fabric?",
+    "answer": "Yes. You can bring your own fabric, or we can help you source premium fabric that matches your design and budget."
+  },
+  {
+    "question": "Do you handle group orders for weddings and aso-ebi?",
+    "answer": "Yes, we regularly handle coordinated group orders for weddings, owambe, and corporate events. The earlier you book, the better we can plan around your event date."
+  },
+  {
+    "question": "What if the fit isn't right?",
+    "answer": "We offer a complimentary fitting adjustment within 7 days of delivery for any fit issues."
+  },
+  {
+    "question": "Do you ship outside Ibadan?",
+    "answer": "Yes, we ship across Nigeria and internationally. Shipping costs and timelines depend on your location."
+  }
+]

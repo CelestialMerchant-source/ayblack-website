@@ -1,0 +1,29 @@
+[
+  {
+    "id": "t1",
+    "name": "Tunde A.",
+    "role": "Wedding Client",
+    "quote": "AY Black sewed my agbada for my wedding and the fit was perfect. Everyone at the event was asking who made it.",
+    "rating": 5,
+    "image": "/images/testimonials/placeholder-1.jpg",
+    "video": ""
+  },
+  {
+    "id": "t2",
+    "name": "Chidi O.",
+    "role": "Corporate Client",
+    "quote": "Best tailor I've used in Ibadan. My suit fits better than anything I've bought off the rack.",
+    "rating": 5,
+    "image": "/images/testimonials/placeholder-2.jpg",
+    "video": ""
+  },
+  {
+    "id": "t3",
+    "name": "Femi K.",
+    "role": "Aso-Ebi Group Lead",
+    "quote": "Coordinated outfits for 12 of us for an owambe and every single piece was on time and on point.",
+    "rating": 5,
+    "image": "/images/testimonials/placeholder-3.jpg",
+    "video": ""
+  }
+]

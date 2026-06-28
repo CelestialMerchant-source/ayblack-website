@@ -1,0 +1,16 @@
+<!--
+  This file exists purely so Netlify's build-time form parser can detect
+  the "booking" form, since the real form is rendered client-side by
+  React/Next.js and Netlify only scans static HTML at build time.
+  This page is never linked to or shown to visitors.
+-->
+<form name="booking" netlify netlify-honeypot="bot-field" hidden>
+  <input type="hidden" name="form-name" value="booking" />
+  <input name="bot-field" />
+  <input type="text" name="name" />
+  <input type="tel" name="phone" />
+  <input type="email" name="email" />
+  <input type="text" name="service" />
+  <input type="date" name="date" />
+  <textarea name="message"></textarea>
+</form>

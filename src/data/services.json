@@ -1,0 +1,38 @@
+[
+  {
+    "id": "native-wear",
+    "title": "Native Wear (Agbada & Kaftan)",
+    "description": "Custom-tailored agbada, senator wear, and kaftan crafted for weddings, ceremonies, and everyday elegance.",
+    "icon": "shirt"
+  },
+  {
+    "id": "suits",
+    "title": "Bespoke Suits",
+    "description": "Sharp, perfectly fitted suits for business, weddings, and formal occasions — built around your exact measurements.",
+    "icon": "briefcase"
+  },
+  {
+    "id": "asoebi",
+    "title": "Aso-Ebi & Event Styling",
+    "description": "Coordinated outfits for owambe parties, weddings, and group events that keep the whole crew sharp and matching.",
+    "icon": "users"
+  },
+  {
+    "id": "custom-design",
+    "title": "Custom Design",
+    "description": "Got a sketch, a fabric, or just an idea? We design and sew original pieces you won't find anywhere else.",
+    "icon": "pencil"
+  },
+  {
+    "id": "alterations",
+    "title": "Alterations & Fitting",
+    "description": "Precise alterations on existing garments for a fit that feels made for you.",
+    "icon": "ruler"
+  },
+  {
+    "id": "fabric-sourcing",
+    "title": "Fabric Sourcing",
+    "description": "Not sure what fabric to use? We help you source premium, authentic materials that match your vision and budget.",
+    "icon": "fabric"
+  }
+]

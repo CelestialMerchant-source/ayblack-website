@@ -1,0 +1,10 @@
+[
+  { "id": "p1", "title": "Past works", "category": "Native Wear", "image": "/images/portfolio/placeholder-1.jpg" },
+  { "id": "p2", "title": "Past works", "category": "Native Wear", "image": "/images/portfolio/placeholder-2.jpg" },
+  { "id": "p3", "title": "Past works", "category": "Suits", "image": "/images/portfolio/placeholder-3.jpg" },
+  { "id": "p4", "title": "Past works", "category": "Aso-Ebi", "image": "/images/portfolio/placeholder-4.jpg" },
+  { "id": "p5", "title": "Past works", "category": "Native Wear", "image": "/images/portfolio/placeholder-5.jpg" },
+  { "id": "p6", "title": "Past works", "category": "Suits", "image": "/images/portfolio/placeholder-6.jpg" },
+  { "id": "p7", "title": "Past works", "category": "Aso-Ebi", "image": "/images/portfolio/placeholder-7.jpg" },
+  { "id": "p8", "title": "Past works", "category": "Custom Design", "image": "/images/portfolio/placeholder-8.jpg" }
+]

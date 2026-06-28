@@ -1,0 +1,18 @@
+{
+  "businessName": "AY Black",
+  "tagline": "I Sew. I Design. I Combine.",
+  "slogan": "In a world full of trends, remain classic.",
+  "phone": "+2349069565319",
+  "phoneDisplay": "+234 906 956 5319",
+  "whatsappLink": "https://wa.me/2349069565319",
+  "email": "adewuyiayomide69@gmail.com",
+  "address": "Ibadan, Nigeria",
+  "instagram": "https://www.instagram.com/ayblack_men_fashion_world_",
+  "workingHours": [
+    { "day": "Monday - Friday", "hours": "9:00 AM - 7:00 PM" },
+    { "day": "Saturday", "hours": "10:00 AM - 6:00 PM" },
+    { "day": "Sunday", "hours": "By appointment only" }
+  ],
+  "mapsEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.658887974578!2d3.88438237410924!3d7.392066392617747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10398d6cd19e35d5%3A0xaf64f6c47340c996!2sSalvation%20Army%20-%20Oke-Padi%20Road%2C%20Ibadan%2C%20Oyo%2C%20Nigeria!5e0!3m2!1sen!2sch!4v1782665845918!5m2!1sen!2sch",
+  "siteUrl": "https://ayblackfashion.netlify.app"
+}
