@@ -7,7 +7,7 @@ export default function Loader() {
   const [hidden, setHidden] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(() => setHidden(true), 900);
+    const timer = setTimeout(() => setHidden(true), 1200);
     return () => clearTimeout(timer);
   }, []);
 
@@ -18,10 +18,15 @@ export default function Loader() {
       }`}
       aria-hidden={hidden}
     >
-      <span className="font-display text-3xl gold-gradient-text font-bold tracking-widest">
-        {site.businessName}
-      </span>
-      <div className="mt-5 w-10 h-10 border-2 border-gold/20 border-t-gold rounded-full animate-spin" />
+      <div className="text-center px-6">
+        <span className="font-display text-4xl gold-gradient-text font-bold tracking-widest block leading-tight">
+          AY Black
+        </span>
+        <span className="font-display text-lg gold-gradient-text font-medium tracking-[0.2em] block mt-1 uppercase">
+          Men Fashion World
+        </span>
+      </div>
+      <div className="mt-6 w-10 h-10 border-2 border-gold/20 border-t-gold rounded-full animate-spin" />
     </div>
   );
 }
