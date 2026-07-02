@@ -16,7 +16,7 @@ export default function HomePage() {
         <div className="absolute inset-0">
           <Image
             src="/images/hero-bg.jpg"
-            alt="AY Black bespoke tailoring"
+            alt=""
             fill
             priority
             className="object-cover"
@@ -34,7 +34,7 @@ export default function HomePage() {
             <span className="gold-gradient-text">Remain Classic.</span>
           </h1>
           <p className="reveal is-visible text-cream/70 text-base sm:text-lg max-w-xl mx-auto mb-10">
-            {site.businessName} crafts bespoke Agbada, Suits, and Aso-ebi for
+            {site.businessName} crafts, bespoke Agbada, Suits, and Aso-ebi for
             the man who knows exactly who he is. Every stitch, deliberate.
             Every fit, exact.
           </p>
