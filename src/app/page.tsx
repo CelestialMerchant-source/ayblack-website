@@ -35,8 +35,7 @@ export default function HomePage() {
           </h1>
           <p className="reveal is-visible text-cream/70 text-base sm:text-lg max-w-xl mx-auto mb-10">
             {site.businessName} crafts, bespoke Agbada, Suits, and Aso-ebi for
-            the man who knows exactly who he is. Every stitch, deliberate.
-            Every fit, exact.
+            the man who knows exactly who he is. Every stitch,Every fit is made to satisfy and present our clients to ELEGANCE.
           </p>
 
           <div className="reveal is-visible flex flex-col sm:flex-row items-center justify-center gap-4">
